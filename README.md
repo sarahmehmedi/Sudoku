@@ -20,6 +20,7 @@ specific cell. If that row and column is part of the orignally printed board, an
 it will tell you that that cell cannot be changed. 
 
 Every time you enter a number into a cell, a new puzzle board will be printed. This allows you to see what you have inputted.
+##
 ------------------------------------------------------------------------
 
 **Rules**
