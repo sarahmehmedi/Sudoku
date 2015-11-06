@@ -45,8 +45,11 @@ Regions:
 A region is a 3x3 box. There are 9 regions in a traditional Sudoku puzzle.
 Like the Sudoku rules for rows and columns, every region must also contain the numbers 1 through 
 9. There should not be any duplicate numbers in any region. No two regions will be the same.
---------------------------------------------------------------
+##
+---------------------------------------------------------
+##
+**Screenshots Below:**
 ![Alt text](/sudoku1.jpg)
 ![Alt text](/sudoku2.jpg)
-![Alt text](/comp170_team3/sudoku3.jpg)
+![Alt text](/sudoku3.jpg)
 
