@@ -1,6 +1,7 @@
 # Sudoku - Team of 5 
 
 **Guide**
+##
 At the beginning of the game, you will be prompted to choose a level of difficulty. The level 
 that you choose will determine how many blank spaces are in the puzzle. If you select easy, 
 there will be 26 blanks in the puzzle and 55 answers. For medium, there will be 36 blanks and 
@@ -18,11 +19,11 @@ Now that you’ve entered a coordinate, it will prompt you to enter what number 
 specific cell. If that row and column is part of the orignally printed board, anything printed in grey,
 it will tell you that that cell cannot be changed. 
 
-Every time you enter a number into a cell, a new puzzle board will be printed. This allows you to 
-see what you have inputted.
----------------------------------------------------------------------------------------------
+Every time you enter a number into a cell, a new puzzle board will be printed. This allows you to see what you have inputted.
+------------------------------------------------------------------------
 
 **Rules**
+##
 Depending on which level you choose, there will be a certain amount of numbers filled 
 into the puzzle board. The remaining blank spaces are where you should fill in your 
 answers to the solution.
@@ -44,8 +45,8 @@ Regions:
 A region is a 3x3 box. There are 9 regions in a traditional Sudoku puzzle.
 Like the Sudoku rules for rows and columns, every region must also contain the numbers 1 through 
 9. There should not be any duplicate numbers in any region. No two regions will be the same.
-----------------------------------------------------------------------------------------------
-![Alt text](/Sites/comp170_team3/sudoku1.jpg)
-![Alt text](/Sites/comp170_team3/sudoku2.jpg)
-![Alt text](/Sites/comp170_team3/sudoku3.jpg)
+--------------------------------------------------------------
+![Alt text](/sudoku1.jpg)
+![Alt text](/sudoku2.jpg)
+![Alt text](/comp170_team3/sudoku3.jpg)
 
